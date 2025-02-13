@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'OmniAPI',
+  title: 'OmniDocs',
   tagline: 'One API, Limitless Possibilities',
   favicon: 'img/favicon.ico',
 
@@ -69,7 +69,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'OmniAPI',
+      title: 'OmniDocs',
       logo: {
         alt: 'OmniLogo',
         src: 'img/omnilogo.svg',
@@ -83,7 +83,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/satyashah/OmniLLM',
+          href: 'https://github.com/omnilabs-ai/OmniRouter',
           label: 'GitHub', //'Chat',
           position: 'right',
         },
@@ -132,7 +132,7 @@ const config: Config = {
       //     ],
       //   },
       // ],
-      copyright: `Copyright © ${new Date().getFullYear()} OmniAPI, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} OmniLabs, Inc.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -3,7 +3,7 @@ sidebar_label: 'Quickstart'
 sidebar_position: 1
 ---
 
-# OmniAPI Documentation
+# OmniRouter Documentation
 
 ## 📌 Introduction
 OmniAPI is a powerful API client for interacting with language and image models. This documentation provides a quick start guide and detailed descriptions of each functionality.
