@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://omnilabs-ai.github.io/blog</id>
+    <title>OmniAPI Blog</title>
+    <updated>2025-02-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://omnilabs-ai.github.io/blog"/>
+    <subtitle>OmniAPI Blog</subtitle>
+    <icon>https://omnilabs-ai.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://omnilabs-ai.github.io/blog/welcome</id>
+        <link href="https://omnilabs-ai.github.io/blog/welcome"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're Satya and Kimia, two University of Maryland alumni who share a deep passion for innovation and entrepreneurship. Our journey together began during our time at UMD, where we discovered our shared vision for building technology that makes a difference.]]></summary>
+        <content type="html"><![CDATA[<p>We're Satya and Kimia, two University of Maryland alumni who share a deep passion for innovation and entrepreneurship. Our journey together began during our time at UMD, where we discovered our shared vision for building technology that makes a difference.</p>
+<p>Our first venture together led to the creation of Sensable, where we pioneered the development of the world's most accurate sensor technology. The experience of building Sensable from the ground up taught us invaluable lessons about technology development, team building, and the importance of solving real-world problems.</p>
+<p>As the tech landscape evolved, we found ourselves increasingly drawn to the transformative potential of Large Language Models (LLMs) and artificial intelligence. This fascination led us to our current focus: developing cutting-edge AI solutions that push the boundaries of what's possible.</p>
+<p>We're excited to share our journey, insights, and developments with you through this blog. Whether you're interested in AI, entrepreneurship, or technology in general, we'd love to connect and exchange ideas.</p>
+<p>Feel free to reach out to us – we're always open to interesting conversations and potential collaborations!</p>
+<hr>]]></content>
+        <author>
+            <name>Satya Shah</name>
+            <uri>https://github.com/satyashah</uri>
+        </author>
+        <author>
+            <name>Kimia Samieinejad</name>
+            <uri>https://github.com/kimiasami1378</uri>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>OmniAPI Blog</title>
+        <link>https://omnilabs-ai.github.io/blog</link>
+        <description>OmniAPI Blog</description>
+        <lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://omnilabs-ai.github.io/blog/welcome</link>
+            <guid>https://omnilabs-ai.github.io/blog/welcome</guid>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're Satya and Kimia, two University of Maryland alumni who share a deep passion for innovation and entrepreneurship. Our journey together began during our time at UMD, where we discovered our shared vision for building technology that makes a difference.]]></description>
+            <content:encoded><![CDATA[<p>We're Satya and Kimia, two University of Maryland alumni who share a deep passion for innovation and entrepreneurship. Our journey together began during our time at UMD, where we discovered our shared vision for building technology that makes a difference.</p>
+<p>Our first venture together led to the creation of Sensable, where we pioneered the development of the world's most accurate sensor technology. The experience of building Sensable from the ground up taught us invaluable lessons about technology development, team building, and the importance of solving real-world problems.</p>
+<p>As the tech landscape evolved, we found ourselves increasingly drawn to the transformative potential of Large Language Models (LLMs) and artificial intelligence. This fascination led us to our current focus: developing cutting-edge AI solutions that push the boundaries of what's possible.</p>
+<p>We're excited to share our journey, insights, and developments with you through this blog. Whether you're interested in AI, entrepreneurship, or technology in general, we'd love to connect and exchange ideas.</p>
+<p>Feel free to reach out to us – we're always open to interesting conversations and potential collaborations!</p>
+<hr>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
