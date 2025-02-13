@@ -1,0 +1,8 @@
+{
+  "label": "Endpoints",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Endpoints for the Omnidocs API."
+  }
+}
