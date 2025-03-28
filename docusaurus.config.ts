@@ -81,6 +81,7 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
+        {to: '/beta', label: 'Join Beta', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/omnilabs-ai/OmniRouter',
