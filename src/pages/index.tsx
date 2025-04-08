@@ -23,6 +23,12 @@ function HomepageHeader() {
             to="/docs/intro">
             OmniRouter Tutorial - 5min ⏱️
           </Link>
+          <Link
+            className="button button--outline button--lg button--secondary"
+            style={{marginLeft: '10px'}}
+            to="/beta">
+            Join the Beta Program 🚀
+          </Link>
         </div>
       </div>
     </header>
